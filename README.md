@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**code-with-Harshit/code-with-harshit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Hi 👋, I'm <span style="color:#0a66c2;">Harshit Sood</span></h1>
+  <h3>A passionate Web & Software Developer from India 🇮🇳</h3>
 
-Here are some ideas to get you started:
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTRiNzIwMGJkOTk1YWRiZGNlZTI2ZjZjNzI1MjEyMTUwNjAyYzM4MCZjdD1n/gH6feY0jMXiOjUoBqX/giphy.gif" width="280" alt="dev-coding-gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 🧑‍💻 About Me
+
+```html
+const developer = {
+    name: "Harshit Sood",
+    focus: "Full Stack Development",
+    learning: ["React", "Node.js", "Tailwind", "Flask"],
+    hobbies: ["Gaming 🎮", "Designing 🎨", "Exploring Tech 🔍"]
+};

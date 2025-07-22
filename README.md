@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-```html
+
 const developer = {
     name: "Harshit Sood",
     focus: "Full Stack Development",

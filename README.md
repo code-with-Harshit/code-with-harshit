@@ -10,7 +10,7 @@
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on a Mincraft-themed portfolio<br>🌱 Learning Full Stack Dev and DSA with JAVA
+🔭 I’m currently working on Mine-Olio(a personal Minecraft themed portfolio) and Traverly(an AI generated travel itinerary)<br>🌱 Learning Full Stack Dev and DSA with JAVA
 
 <!--
 **devniteshkumar/devniteshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hi 👋, I'm <span style="color:#0a66c2;">Harshit</span></h1>
-  <h3></h3>
+  <h3>Yes, this wee lil rainbow cat is me :3</h3>
 
   <img src="https://i.pinimg.com/originals/e2/9e/1a/e29e1a7bcce0269e79cc7430d7736ee0.gif" width="280" alt="dev-coding-gif" />
 

@@ -10,7 +10,7 @@
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on Mine-Olio(a personal Minecraft themed portfolio) and Traverly(an AI generated travel itinerary)<br>🌱 Learning Full Stack Dev and DSA with JAVA
+🔭 I’m currently working on building a portfolio and projects to showcase and further enhance my tech skills. <br>🌱 Learning Full Stack Dev and DSA with JAVA
 
 <!--
 **devniteshkumar/devniteshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 </div>
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 𓆩♡𓆪
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=code-with-Harshit&show_icons=true&theme=radical" alt="stats" />
 </p>

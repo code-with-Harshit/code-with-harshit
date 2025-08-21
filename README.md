@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 # 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soodharshit2021@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-s-a25257258/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-D14836?logo=gmail&logoColor=white)](https://leetcode.com/u/harshitsood_19/)
 
 </div>
 
